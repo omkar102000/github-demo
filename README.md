@@ -1,3 +1,3 @@
 # github-demo
 A demo of using github
-author - omkar narvekar
+author - omkar narvekar 10
